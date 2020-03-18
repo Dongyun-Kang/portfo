@@ -2,3 +2,4 @@
 venv/*
 .vscode
 app.yaml
+.gcloudignore
